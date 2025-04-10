@@ -1,4 +1,4 @@
-# University-Management-University
+# University-Management-system
  Objective:
 To design a database that manages university data efficiently, including students, courses, faculty, departments, enrollments, grades, etc.
 
